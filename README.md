@@ -37,12 +37,13 @@ Enter target IP or domain: example.com
 ---
 ## 📝 Output Example
 
-Host: demo.testfire.net (192.168.x.x)
-PORT     STATE SERVICE
-80/tcp   open  http
-443/tcp  open  https
+## 📝 Output Example
 
-|_ Vulnerabilities Found: X potential issues
+Target: testphp.vulnweb.com  
+IP: 44.228.249.3  
+Open Port: 80/tcp (nginx 1.19.0)
+
+[+] Scan complete! Report saved in scan_report.txt
 
 ---
 
